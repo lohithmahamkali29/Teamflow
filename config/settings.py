@@ -40,6 +40,8 @@ INSTALLED_APPS = [
     "workspaces",
     "accounts",
     "chat",
+    "projects",
+    "rest_framework",
 ]
 
 MIDDLEWARE = [
